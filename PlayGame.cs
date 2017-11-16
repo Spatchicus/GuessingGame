@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GuessingGame
 {
+	//change made by Jay
     class PlayGame
     {
         public bool PlayGuessingGame()
